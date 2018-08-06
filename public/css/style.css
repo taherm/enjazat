@@ -293,7 +293,7 @@ Home
 }
 
 .fixed-phone{
-	position:fixed;
+	position:absolute;
 	width: 50%;
 	bottom:0;
 	right:0;
